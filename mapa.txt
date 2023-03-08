@@ -1,0 +1,26 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Xc  X       X   #####       X         XcccccccX   X
+X X XXX XXX XXXXXXXXXXX XXX X XXXXXXX XXX XXXXX t X
+X X   X X X           X X X   X     X     X   X   X
+X XXX X X XXX###XXXXX X X XXXXX XXXXXXXXXXXXX XXX X
+X XTX   X           X X X ##  X      cX       X X X
+X X XXXXX XXX XXXXXXX X X X XXX XXX XXX XXX X X X X
+X X         X X       X X X     X   X   X X X   X X
+X X XXXXXXX XXX XXXXXXX XXXXX XXX XXX XXX X XXX X X
+X XTX     X   X   X     X   X   X         X X X X X
+X XXX XXX XXX XXX XXX XXX X XXX XXXXXXXXXXX X X X X
+X X   X       X X  cX  A  X X   X X       X X   X X
+X X XXXXXX#XX X XXX XXX XXX XXX X X XXXXX X X XXX X
+X X    #X   X X   X   X   X   X   X X     X X X   X
+X X X ##X XXX XXX XXX XXXXXXX XXX X XXX XXX X X XXX
+X X X## X    #  X   X X  ###  X   X   X     X X X X
+X X X#  XXXXXXX X X X X XX#XXXX XXXXX XXXXXXX X X X
+X X X#      X   X X X   X     X   X X       ##X   X
+X XXXXXXXXX X XXX XXXXXXX XXXXXXX X XXXXX X ##XXX X
+X X#      X X     X     X       X   X   X X ##  X X
+X X XXXXX X XXXXXXX X XXX XXXXX XXX X X XXX#XXXXX X
+X###X     X         X  ###X## X     X X   X###### X
+XcXXX XXXXXXXXXXXXXXXXXXXXX#X XXXXXXX XXX X#    # X
+XcccX                 ######X##         X    ##   X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
