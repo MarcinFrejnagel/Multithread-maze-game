@@ -1,6 +1,6 @@
 # Maze game for two players using TCP/IP communication
 
-In this game you move with arrows, collect coins and avoid beast. You can also play with second player using two Linux terminals. Collisions between players same as between player and beast causes the respawn of player and leaving possible to collect 'D' in the place of his death in case the player was carrying any coins. When entering a bush '#' player has slowdown that makes the player move two times slower.
+In this game you move with arrows, collect coins and avoid beast. You can also play with second player using two Linux terminals. Collisions between players same as between player and beast causes the respawn of player and leaving possible to collect 'D' in the place of his death in case the player was carrying any coins. When entering a bush '#' player has slowdown that makes the player move two times slower. Players can deposit their coins by going to campsite 'A' in the middle of the map.
 
 ## Important library
 - ncurses - used to get input from keyboard, display and format everything in terminal
