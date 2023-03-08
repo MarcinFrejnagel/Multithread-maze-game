@@ -112,9 +112,6 @@ struct player* add_player(){
     if(!result)
         return NULL;
 
-    //result->spawn_x = 27;
-    //result->spawn_y = 3;
-
     while(1){
         result->spawn_x = rand()%52;
         result->spawn_y = rand()%25;
@@ -144,9 +141,6 @@ struct beast* add_beast(){
 
     if(!result)
         return NULL;
-
-    //result->x = 15;
-    //result->y = 1;
 
     while(1){
         result->x = rand()%52;
@@ -206,7 +200,7 @@ void collect_coin(struct player* player, char treasure){
 }
 
 void display_player_win(WINDOW* win, struct player* player){
-    int x = player->x - 2;
+    /*int x = player->x - 2;
     int y = player->y - 2;
 
     for(int i = 0; i < 25; ++i){
@@ -263,11 +257,8 @@ void display_player_win(WINDOW* win, struct player* player){
                 wattroff(win, COLOR_PAIR(1));
             }
         }
-    }
-
-
-
-    /*
+    }*/
+    
     int x = player->x - 2;
     int y = player->y - 2;
 
@@ -333,7 +324,7 @@ void display_player_win(WINDOW* win, struct player* player){
             }
         }
     }
-    */
+
 }
 
 
@@ -1352,7 +1343,7 @@ struct player** create_players(int num){
 }
 
 int get_maps(){
-    FILE *f = fopen("map.txt", "rt");
+    FILE *f = fopen("mapa.txt", "rt");
 
     if(!f){
         printf("Failed to load the map\n");
