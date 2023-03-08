@@ -1,4 +1,4 @@
-#include "serwer_functions.h"
+#include "server_functions.h"
 
 #define yMax = 52;
 #define xMax = 25;
