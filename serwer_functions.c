@@ -1352,7 +1352,7 @@ struct player** create_players(int num){
 }
 
 int get_maps(){
-    FILE *f = fopen("mapa.txt", "rt");
+    FILE *f = fopen("map.txt", "rt");
 
     if(!f){
         printf("Failed to load the map\n");
