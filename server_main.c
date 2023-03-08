@@ -1,4 +1,4 @@
-#include "serwer_functions.h"
+#include "server_functions.h"
 
 #define PORT 8989
 
