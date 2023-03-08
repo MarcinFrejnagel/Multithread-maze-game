@@ -3,9 +3,9 @@
 In this game you move with arrows, collect coins and avoid beast. You can also play with second player using two Linux terminals.
 
 ## Important library
- - ncurses - used to get input from keyboard, display and format everything in terminal
- - sockets - enable communication and continuous data transfer between server and client
- - threads - simultaneous gameplay for two players, beast movement 
+- ncurses - used to get input from keyboard, display and format everything in terminal
+- sockets - enable communication and continuous data transfer between server and client
+- threads - simultaneous gameplay for two players, beast movement 
  
 ## Compile and run the program
  
